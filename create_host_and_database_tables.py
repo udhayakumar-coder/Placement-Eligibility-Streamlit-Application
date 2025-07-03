@@ -12,6 +12,7 @@ udhaya=mysql.connector.connect(host="gateway01.ap-southeast-1.prod.aws.tidbcloud
                                password="AEpsh6zgl0yxb9td",
                                port="4000",
                                database="Pesa")
+con.execute("use Pesa")
 con.execute("""start transaction
             create table students(
                 student_id int,
@@ -64,3 +65,5 @@ con.execute("""start transaction
                 constraint fk_students foreign key references students(student_id)
             )""")
 udhaya.exceute("commit")
+con.close()
+udhaya.close()
