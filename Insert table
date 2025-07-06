@@ -1,1 +1,57 @@
+con.udhaya.cursor()
+con.execute("""start transaction
+num_students = 500
+num_programming = 500
+num_soft_skills = 500
+num_placements = 500
+#change identity
+fake = Faker()""")
 
+#insert table
+
+con.execute("""insert * into values
+for students_id in range(1, num_students + 1):
+    name = fake.name()
+    age = random.randint(21,35)
+    gender = random.choice(["M","F"])
+    email = fake.email()
+    phone = fake.phone_number()
+    entrollment_year = random.randint(2005, 2020)
+    course_batch = entrollment_year + 4
+    city = fake.city()
+    graduation_year = course_batch""")
+con.execute("""insert * into values
+for programming_id in range(1, num_programming + 1):
+    students_id = programming_id
+    language = random.choice(["Python", "Java", "JavaScript", "C++", "C#", "PHP", "SQL", "Go", "Swift", "Rust"])
+    problems_solved = random.randint(0, 3000)
+    assessments_completed = random.randint(1, 20)
+    mini_project = fake.randint(1,50)
+    certifications_earned = random.randint(0, 10)
+    latest_project_score = random.randint(30, 100)""")
+con.execute("""insert * into values
+for i in range(num_soft_skills):
+    soft_skill_id = i + 1
+    students_id = soft_skill_id
+    communication = random.randint(30, 100)
+    teamwork = random.randint(50, 100)
+    presentation = random.randint(20,100)
+    leadership = random.randint(50, 100)
+    critical_thinking = random.randint(30, 100)
+    interpersonal_skills = random.randint(30, 100)""")
+con.execute("""insert * into values
+for i in range(num_placements):
+    placement_id = i+1
+    students_id = placement_id
+    mock_interview_score = random.randint(30, 100)
+    internships_completed = random.randint(1, 5)
+    interview_rounds_cleared = random.randint(1, 5)
+    placement_status = random.choice(["Placed", "Not Placed"])
+    if interview_rounds_cleared >= 3:
+          print("Placed")
+    else:
+         print("Not Placed")
+    company_name = fake.company() if placement_status == "Placed" else "Not Available"
+    placement_package = random.randint(50000, 100000) if placement_status == "Placed" else "0"
+    placement_date = fake.date_between(start_date='-1y', end_date='-1d') if placement_status == "Placed" else "None" """)
+   
