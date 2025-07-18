@@ -17,7 +17,7 @@ con.execute("start transaction")
 con.execute("use Placement_Eligibility_Application")
 # Create table for Placement Eligibility Application
 con.execute("""
-create table students (
+create table students_table (
     student_id int,
     name varchar(50),
     age int,
@@ -31,7 +31,7 @@ create table students (
     constraint pk_students primary key (student_id)
 )""")
 con.execute("""
-create table programming (
+create table programming_table (
     programming_id int,
     student_id int,
     language varchar(60),
@@ -44,7 +44,7 @@ create table programming (
     constraint fk_student_id foreign key (student_id) references students(student_id)
 )""")
 con.execute("""
-create table soft_skills (
+create table soft_skills_table (
     soft_skill_id varchar(30),
     student_id int,
     communication int,
@@ -57,7 +57,7 @@ create table soft_skills (
     constraint fk_student foreign key (student_id) references students(student_id)
 )""")
 con.execute("""
-create table placements (
+create table placement_table (
     placement_id varchar(30),
     student_id int,
     mock_interview_score float,     
