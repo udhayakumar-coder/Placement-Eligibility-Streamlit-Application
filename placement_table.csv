@@ -1,0 +1,501 @@
+placement_id,students_id,mock_interview_score,internships_completed,interview_rounds_cleared,placement_status,company_name,placement_package,placement_date
+1,1,76,4,2,Not Placed,Not Available,0,1000-01-01
+2,2,92,4,2,Not Placed,Not Available,0,1000-01-01
+3,3,35,3,2,Not Placed,Not Available,0,1000-01-01
+4,4,89,1,2,Not Placed,Not Available,0,1000-01-01
+5,5,76,3,3,Placed,Jordan-Shaffer,89058,2025-05-08
+6,6,42,4,4,Placed,Miller-Small,72320,2025-05-05
+7,7,71,3,2,Not Placed,Not Available,0,1000-01-01
+8,8,79,5,5,Placed,"Miller, Dominguez and Duke",59234,2025-06-11
+9,9,56,5,2,Not Placed,Not Available,0,1000-01-01
+10,10,58,5,3,Placed,Carpenter LLC,67289,2024-12-27
+11,11,37,4,2,Not Placed,Not Available,0,1000-01-01
+12,12,63,4,1,Not Placed,Not Available,0,1000-01-01
+13,13,96,3,5,Placed,Marks-Mcdaniel,80065,2024-11-21
+14,14,64,3,5,Placed,"Moore, Olson and Brown",96227,2024-10-16
+15,15,83,4,2,Not Placed,Not Available,0,1000-01-01
+16,16,79,2,3,Placed,"Scott, Sanchez and Clark",51751,2025-01-29
+17,17,90,4,5,Placed,"Miller, Lee and Alvarez",76940,2025-07-02
+18,18,63,1,5,Placed,Matthews-Jones,55925,2024-11-19
+19,19,77,3,1,Not Placed,Not Available,0,1000-01-01
+20,20,33,5,4,Placed,"Larson, White and Smith",85831,2025-04-25
+21,21,37,2,2,Not Placed,Not Available,0,1000-01-01
+22,22,71,3,1,Not Placed,Not Available,0,1000-01-01
+23,23,51,5,3,Placed,Malone-Short,79918,2024-09-29
+24,24,89,1,4,Placed,"Ellis, Graham and Jackson",63687,2025-05-06
+25,25,80,3,5,Placed,Jacobson and Sons,63127,2025-06-16
+26,26,63,3,3,Placed,Torres Group,55412,2025-05-22
+27,27,87,1,3,Placed,"Williams, Thompson and Wise",80768,2024-10-12
+28,28,49,3,1,Not Placed,Not Available,0,1000-01-01
+29,29,68,4,2,Not Placed,Not Available,0,1000-01-01
+30,30,59,1,3,Placed,Jackson-Townsend,85867,2024-10-25
+31,31,84,5,5,Placed,Coleman-Chambers,54363,2024-07-25
+32,32,76,3,1,Not Placed,Not Available,0,1000-01-01
+33,33,39,4,5,Placed,"Harrison, Atkins and Lopez",67963,2024-08-03
+34,34,50,1,1,Not Placed,Not Available,0,1000-01-01
+35,35,71,1,2,Not Placed,Not Available,0,1000-01-01
+36,36,95,4,1,Not Placed,Not Available,0,1000-01-01
+37,37,71,3,5,Placed,Robertson Inc,57532,2024-12-09
+38,38,94,4,1,Not Placed,Not Available,0,1000-01-01
+39,39,96,4,4,Placed,"Graham, Hunt and Brown",74534,2025-02-22
+40,40,84,5,5,Placed,Gray-Shaw,50937,2025-02-14
+41,41,74,1,5,Placed,"Dodson, Johnson and Mejia",67773,2025-04-16
+42,42,78,2,5,Placed,Short Inc,50998,2024-07-28
+43,43,77,2,1,Not Placed,Not Available,0,1000-01-01
+44,44,83,3,3,Placed,Price-Johnson,62558,2025-04-30
+45,45,88,2,3,Placed,Pacheco and Sons,79871,2024-11-01
+46,46,57,1,4,Placed,"Crawford, Shannon and Sanchez",83480,2025-01-15
+47,47,64,5,4,Placed,"Anderson, Pearson and Collins",77513,2024-09-11
+48,48,80,5,3,Placed,Thomas Inc,74487,2025-01-22
+49,49,51,4,3,Placed,Contreras-Stewart,56375,2024-08-09
+50,50,94,1,4,Placed,"Frank, Scott and Morris",78190,2025-03-08
+51,51,41,4,3,Placed,Henderson-Barry,91852,2024-11-24
+52,52,60,2,3,Placed,Duarte Group,65181,2024-07-15
+53,53,60,2,3,Placed,"Villegas, Jones and Hernandez",54256,2025-03-05
+54,54,54,3,1,Not Placed,Not Available,0,1000-01-01
+55,55,47,3,1,Not Placed,Not Available,0,1000-01-01
+56,56,57,4,1,Not Placed,Not Available,0,1000-01-01
+57,57,39,3,3,Placed,Davis LLC,80368,2025-06-17
+58,58,36,1,4,Placed,Henry PLC,77598,2025-06-28
+59,59,67,3,1,Not Placed,Not Available,0,1000-01-01
+60,60,35,1,5,Placed,Pope-Blevins,87619,2024-08-16
+61,61,62,2,2,Not Placed,Not Available,0,1000-01-01
+62,62,50,4,4,Placed,"Moore, Meadows and Brown",62855,2025-01-28
+63,63,64,2,1,Not Placed,Not Available,0,1000-01-01
+64,64,98,5,5,Placed,Lopez-Perkins,54231,2024-11-16
+65,65,100,1,3,Placed,"Thomas, Evans and Smith",78929,2024-08-18
+66,66,53,4,2,Not Placed,Not Available,0,1000-01-01
+67,67,94,3,2,Not Placed,Not Available,0,1000-01-01
+68,68,58,3,5,Placed,Kirk-Dunn,69938,2024-08-26
+69,69,57,1,4,Placed,"Gray, Vega and Schneider",63642,2025-01-07
+70,70,78,1,4,Placed,Osborne-Mcguire,66696,2024-12-29
+71,71,84,4,3,Placed,Stewart Inc,93851,2025-05-15
+72,72,33,4,2,Not Placed,Not Available,0,1000-01-01
+73,73,71,5,3,Placed,Meyer and Sons,70600,2024-09-04
+74,74,84,5,4,Placed,"Brewer, Reyes and Thomas",94566,2024-10-16
+75,75,40,3,4,Placed,Hayes-Williams,51785,2024-12-02
+76,76,68,4,1,Not Placed,Not Available,0,1000-01-01
+77,77,79,4,3,Placed,Montgomery Inc,74736,2025-07-09
+78,78,81,1,4,Placed,Diaz PLC,68257,2025-04-14
+79,79,55,2,1,Not Placed,Not Available,0,1000-01-01
+80,80,30,5,4,Placed,"Cook, Cooper and Brooks",94255,2024-10-25
+81,81,43,1,2,Not Placed,Not Available,0,1000-01-01
+82,82,96,1,4,Placed,Frazier-Norman,71369,2025-04-05
+83,83,90,5,4,Placed,"Herrera, Harrison and Hamilton",78907,2024-08-20
+84,84,37,2,1,Not Placed,Not Available,0,1000-01-01
+85,85,96,4,1,Not Placed,Not Available,0,1000-01-01
+86,86,89,2,3,Placed,"Jordan, Goodman and Dunn",66731,2024-08-16
+87,87,82,2,5,Placed,Mcpherson-Mcdonald,58650,2024-10-24
+88,88,39,3,5,Placed,"Adams, Johnson and Bishop",95597,2024-10-04
+89,89,31,2,3,Placed,"Fernandez, Meza and Johnson",74581,2025-04-08
+90,90,61,2,4,Placed,Moore-Ramirez,79376,2024-10-23
+91,91,86,4,4,Placed,"Carrillo, Robinson and Mendez",53080,2025-02-21
+92,92,65,4,2,Not Placed,Not Available,0,1000-01-01
+93,93,62,2,3,Placed,Jackson-Moore,60818,2025-04-26
+94,94,78,2,4,Placed,Hardy-Hale,67532,2025-07-10
+95,95,32,2,3,Placed,Newton Inc,84668,2025-03-20
+96,96,89,2,5,Placed,Wyatt-Doyle,58084,2025-05-01
+97,97,93,4,3,Placed,Bailey Inc,94260,2025-07-05
+98,98,83,4,4,Placed,"Reed, Huff and Leon",57991,2025-04-16
+99,99,62,3,4,Placed,"Marks, Johnson and Wagner",85661,2025-01-15
+100,100,58,4,1,Not Placed,Not Available,0,1000-01-01
+101,101,54,4,4,Placed,Hayes Inc,91134,2024-08-14
+102,102,75,2,2,Not Placed,Not Available,0,1000-01-01
+103,103,65,2,2,Not Placed,Not Available,0,1000-01-01
+104,104,48,5,2,Not Placed,Not Available,0,1000-01-01
+105,105,87,5,1,Not Placed,Not Available,0,1000-01-01
+106,106,73,5,3,Placed,Perez-Chen,76002,2025-03-29
+107,107,62,2,2,Not Placed,Not Available,0,1000-01-01
+108,108,58,1,3,Placed,Brown-Berry,80250,2025-03-24
+109,109,42,3,3,Placed,Miller Ltd,62971,2025-03-07
+110,110,89,1,5,Placed,Wilson LLC,86908,2024-09-17
+111,111,94,5,2,Not Placed,Not Available,0,1000-01-01
+112,112,36,1,3,Placed,Wade-Phillips,55458,2024-07-23
+113,113,74,2,2,Not Placed,Not Available,0,1000-01-01
+114,114,87,3,1,Not Placed,Not Available,0,1000-01-01
+115,115,72,3,4,Placed,Hall-Ramos,54992,2025-02-03
+116,116,84,4,5,Placed,Best PLC,57185,2025-06-06
+117,117,77,2,3,Placed,"Lara, May and Coleman",74911,2024-08-08
+118,118,35,4,2,Not Placed,Not Available,0,1000-01-01
+119,119,95,1,1,Not Placed,Not Available,0,1000-01-01
+120,120,79,5,4,Placed,Skinner Group,64013,2024-10-13
+121,121,66,1,4,Placed,Mueller Inc,95841,2025-01-05
+122,122,100,3,5,Placed,Middleton-Rivera,87291,2024-11-27
+123,123,54,5,4,Placed,"Henderson, Daniels and Li",97852,2025-04-23
+124,124,68,4,5,Placed,Thomas LLC,90862,2024-07-19
+125,125,77,4,3,Placed,"Kennedy, Larsen and Martin",99117,2024-10-05
+126,126,93,3,1,Not Placed,Not Available,0,1000-01-01
+127,127,87,3,5,Placed,"Nelson, Rasmussen and Jones",73580,2024-10-04
+128,128,91,1,3,Placed,"Smith, Hill and Cox",99668,2025-02-03
+129,129,73,5,5,Placed,"Ward, Snyder and Washington",68275,2025-03-03
+130,130,33,3,1,Not Placed,Not Available,0,1000-01-01
+131,131,94,4,2,Not Placed,Not Available,0,1000-01-01
+132,132,49,3,1,Not Placed,Not Available,0,1000-01-01
+133,133,78,2,3,Placed,Swanson PLC,91846,2024-10-19
+134,134,64,5,1,Not Placed,Not Available,0,1000-01-01
+135,135,54,2,2,Not Placed,Not Available,0,1000-01-01
+136,136,97,3,4,Placed,Dunn and Sons,84070,2024-12-26
+137,137,91,2,1,Not Placed,Not Available,0,1000-01-01
+138,138,86,2,2,Not Placed,Not Available,0,1000-01-01
+139,139,76,3,1,Not Placed,Not Available,0,1000-01-01
+140,140,54,5,1,Not Placed,Not Available,0,1000-01-01
+141,141,35,2,2,Not Placed,Not Available,0,1000-01-01
+142,142,99,1,4,Placed,"Kelly, Harvey and Holder",67030,2024-11-15
+143,143,61,1,2,Not Placed,Not Available,0,1000-01-01
+144,144,73,2,4,Placed,"Rodriguez, Livingston and Hammond",67805,2024-08-05
+145,145,82,3,2,Not Placed,Not Available,0,1000-01-01
+146,146,77,1,2,Not Placed,Not Available,0,1000-01-01
+147,147,58,4,4,Placed,Jenkins LLC,77101,2024-08-07
+148,148,91,4,5,Placed,"Allen, Floyd and Perez",84959,2024-07-26
+149,149,46,5,4,Placed,"Lee, Harris and Cochran",85908,2025-05-07
+150,150,89,3,1,Not Placed,Not Available,0,1000-01-01
+151,151,38,4,4,Placed,Moreno-Davis,92177,2025-06-22
+152,152,38,3,1,Not Placed,Not Available,0,1000-01-01
+153,153,61,2,1,Not Placed,Not Available,0,1000-01-01
+154,154,32,1,5,Placed,Bailey PLC,52250,2025-02-10
+155,155,53,4,2,Not Placed,Not Available,0,1000-01-01
+156,156,51,2,2,Not Placed,Not Available,0,1000-01-01
+157,157,80,4,1,Not Placed,Not Available,0,1000-01-01
+158,158,43,2,1,Not Placed,Not Available,0,1000-01-01
+159,159,79,5,2,Not Placed,Not Available,0,1000-01-01
+160,160,92,4,3,Placed,Golden Inc,87939,2024-09-05
+161,161,69,2,1,Not Placed,Not Available,0,1000-01-01
+162,162,90,5,4,Placed,Smith Inc,52542,2025-04-20
+163,163,31,1,1,Not Placed,Not Available,0,1000-01-01
+164,164,78,5,3,Placed,"Smith, Lee and Smith",71354,2024-09-30
+165,165,46,5,2,Not Placed,Not Available,0,1000-01-01
+166,166,54,1,5,Placed,Ford Group,81492,2024-12-12
+167,167,70,5,3,Placed,Holmes-Watson,85383,2025-06-05
+168,168,62,3,2,Not Placed,Not Available,0,1000-01-01
+169,169,49,1,5,Placed,Sanchez Group,65520,2025-03-26
+170,170,72,5,3,Placed,Garner Group,95660,2025-03-26
+171,171,43,3,3,Placed,Johnson-Pearson,85357,2025-05-27
+172,172,70,1,2,Not Placed,Not Available,0,1000-01-01
+173,173,71,2,3,Placed,Long Ltd,57512,2025-04-12
+174,174,98,4,2,Not Placed,Not Available,0,1000-01-01
+175,175,81,5,5,Placed,Smith-Moore,58229,2024-09-02
+176,176,79,4,4,Placed,Henderson-Jackson,90117,2025-06-20
+177,177,73,4,1,Not Placed,Not Available,0,1000-01-01
+178,178,54,2,3,Placed,Hartman-Owens,97965,2025-03-23
+179,179,94,2,5,Placed,Collins Inc,86686,2025-01-03
+180,180,92,3,3,Placed,Orozco-Lawrence,89053,2024-09-12
+181,181,57,3,4,Placed,Fuentes-Morgan,77484,2024-10-28
+182,182,42,5,3,Placed,"Mullins, Walker and Bailey",90300,2025-05-05
+183,183,30,3,3,Placed,"Alexander, Black and Cooley",99363,2024-10-09
+184,184,58,1,3,Placed,Gordon LLC,68077,2025-03-23
+185,185,56,1,1,Not Placed,Not Available,0,1000-01-01
+186,186,36,1,3,Placed,Greene Group,81112,2025-05-04
+187,187,97,5,4,Placed,"Camacho, Park and Davis",87428,2024-08-14
+188,188,66,3,2,Not Placed,Not Available,0,1000-01-01
+189,189,85,5,1,Not Placed,Not Available,0,1000-01-01
+190,190,78,4,5,Placed,Edwards PLC,51863,2025-03-24
+191,191,90,3,4,Placed,Fowler Ltd,55811,2025-02-16
+192,192,88,2,5,Placed,Aguilar PLC,86537,2025-02-25
+193,193,71,2,4,Placed,Kelly Group,50024,2025-02-16
+194,194,81,2,3,Placed,Wilcox-Cooper,76066,2024-12-24
+195,195,64,1,1,Not Placed,Not Available,0,1000-01-01
+196,196,52,2,5,Placed,Rodriguez-Johnson,69913,2025-03-17
+197,197,76,4,5,Placed,Murphy-Galloway,86449,2024-12-30
+198,198,89,4,1,Not Placed,Not Available,0,1000-01-01
+199,199,47,2,4,Placed,Henson-Williams,74427,2024-09-23
+200,200,70,5,3,Placed,"Blake, Brown and Davis",81310,2025-06-07
+201,201,38,4,3,Placed,Merritt and Sons,64234,2024-07-26
+202,202,44,5,5,Placed,Gonzalez-Bryant,99133,2025-04-06
+203,203,66,5,4,Placed,"Ramsey, Bautista and Camacho",50964,2024-09-20
+204,204,72,4,3,Placed,Cantrell Ltd,96632,2024-07-22
+205,205,73,1,4,Placed,Gentry-Reed,57165,2024-09-12
+206,206,51,2,1,Not Placed,Not Available,0,1000-01-01
+207,207,94,3,1,Not Placed,Not Available,0,1000-01-01
+208,208,52,5,2,Not Placed,Not Available,0,1000-01-01
+209,209,36,3,2,Not Placed,Not Available,0,1000-01-01
+210,210,31,2,4,Placed,Sullivan-Barry,61638,2025-01-24
+211,211,93,2,4,Placed,"Garcia, Hanna and Owen",94599,2024-12-06
+212,212,80,2,2,Not Placed,Not Available,0,1000-01-01
+213,213,52,1,3,Placed,"Mack, Garrett and Garza",98621,2025-03-10
+214,214,81,5,1,Not Placed,Not Available,0,1000-01-01
+215,215,49,3,3,Placed,Pearson-Jones,79796,2025-05-22
+216,216,94,1,5,Placed,Smith and Sons,51872,2025-01-05
+217,217,78,4,5,Placed,Cox Inc,53265,2025-06-24
+218,218,61,1,5,Placed,"Walls, Johnson and Reed",76662,2025-04-13
+219,219,48,2,4,Placed,Walsh-Adams,63752,2025-05-10
+220,220,36,5,5,Placed,Rodriguez-Ramirez,68674,2024-10-27
+221,221,64,1,3,Placed,"Kelley, Richards and Estrada",60608,2024-09-13
+222,222,60,2,1,Not Placed,Not Available,0,1000-01-01
+223,223,94,3,1,Not Placed,Not Available,0,1000-01-01
+224,224,70,1,5,Placed,"Gregory, Salinas and Bird",93786,2025-04-05
+225,225,74,2,1,Not Placed,Not Available,0,1000-01-01
+226,226,39,1,2,Not Placed,Not Available,0,1000-01-01
+227,227,63,1,1,Not Placed,Not Available,0,1000-01-01
+228,228,59,3,1,Not Placed,Not Available,0,1000-01-01
+229,229,78,4,2,Not Placed,Not Available,0,1000-01-01
+230,230,94,1,1,Not Placed,Not Available,0,1000-01-01
+231,231,92,2,1,Not Placed,Not Available,0,1000-01-01
+232,232,90,1,1,Not Placed,Not Available,0,1000-01-01
+233,233,50,2,5,Placed,Burke-Reyes,86352,2025-02-04
+234,234,98,2,4,Placed,"Potter, Benson and Delgado",60622,2025-05-19
+235,235,34,1,1,Not Placed,Not Available,0,1000-01-01
+236,236,58,2,5,Placed,Powers-Jackson,94960,2024-08-14
+237,237,40,4,2,Not Placed,Not Available,0,1000-01-01
+238,238,77,1,2,Not Placed,Not Available,0,1000-01-01
+239,239,35,3,3,Placed,Whitehead PLC,69560,2024-08-21
+240,240,77,4,4,Placed,Jones-Garrett,98917,2024-08-18
+241,241,41,4,5,Placed,Jones Ltd,77049,2024-08-18
+242,242,48,2,5,Placed,"Chavez, Hess and Campbell",57759,2024-10-16
+243,243,56,1,1,Not Placed,Not Available,0,1000-01-01
+244,244,84,4,3,Placed,Arnold Inc,52351,2025-03-23
+245,245,81,2,4,Placed,Michael-Randolph,63361,2025-04-22
+246,246,57,2,2,Not Placed,Not Available,0,1000-01-01
+247,247,89,3,3,Placed,Lucas Ltd,60889,2025-02-14
+248,248,63,4,2,Not Placed,Not Available,0,1000-01-01
+249,249,33,1,1,Not Placed,Not Available,0,1000-01-01
+250,250,88,2,4,Placed,Rojas-Singh,53664,2024-08-20
+251,251,74,2,5,Placed,"Hall, Orr and Smith",61874,2025-07-03
+252,252,31,3,4,Placed,Johnson Inc,81796,2025-01-29
+253,253,58,5,2,Not Placed,Not Available,0,1000-01-01
+254,254,99,5,1,Not Placed,Not Available,0,1000-01-01
+255,255,49,4,1,Not Placed,Not Available,0,1000-01-01
+256,256,60,1,5,Placed,Robertson-Russell,67411,2025-05-23
+257,257,56,3,1,Not Placed,Not Available,0,1000-01-01
+258,258,78,5,1,Not Placed,Not Available,0,1000-01-01
+259,259,69,5,1,Not Placed,Not Available,0,1000-01-01
+260,260,36,5,3,Placed,Murillo Inc,63962,2024-09-18
+261,261,95,2,2,Not Placed,Not Available,0,1000-01-01
+262,262,78,5,4,Placed,"Perry, Potter and Huerta",67644,2024-07-17
+263,263,58,3,2,Not Placed,Not Available,0,1000-01-01
+264,264,79,4,3,Placed,"Bullock, Brown and Thompson",57174,2024-11-07
+265,265,43,3,2,Not Placed,Not Available,0,1000-01-01
+266,266,51,5,1,Not Placed,Not Available,0,1000-01-01
+267,267,55,5,1,Not Placed,Not Available,0,1000-01-01
+268,268,92,2,4,Placed,"Stewart, Cox and Estrada",56289,2024-10-13
+269,269,84,4,2,Not Placed,Not Available,0,1000-01-01
+270,270,61,4,1,Not Placed,Not Available,0,1000-01-01
+271,271,100,5,3,Placed,Miller-Sandoval,54192,2024-08-10
+272,272,52,4,4,Placed,Love and Sons,67420,2025-07-12
+273,273,95,5,3,Placed,Gates-Ellis,67000,2024-10-18
+274,274,91,2,4,Placed,Smith-Beck,86463,2025-02-17
+275,275,53,4,1,Not Placed,Not Available,0,1000-01-01
+276,276,32,3,4,Placed,Wheeler LLC,82376,2025-03-07
+277,277,100,1,4,Placed,Pierce-Fritz,70059,2025-04-28
+278,278,55,2,2,Not Placed,Not Available,0,1000-01-01
+279,279,57,4,5,Placed,Roberts-Garcia,90674,2024-08-19
+280,280,44,2,2,Not Placed,Not Available,0,1000-01-01
+281,281,86,1,3,Placed,"Moody, Oconnor and Williams",53607,2024-12-26
+282,282,57,5,2,Not Placed,Not Available,0,1000-01-01
+283,283,45,5,3,Placed,"Tucker, Freeman and Fernandez",62608,2025-05-18
+284,284,44,4,4,Placed,"Hill, Rice and Harrison",57743,2025-04-29
+285,285,38,5,2,Not Placed,Not Available,0,1000-01-01
+286,286,47,2,3,Placed,Simpson Group,76563,2025-06-28
+287,287,99,1,3,Placed,Miller-Mullen,75293,2025-05-02
+288,288,49,1,3,Placed,"Ross, Russell and Duncan",80457,2024-11-11
+289,289,96,5,2,Not Placed,Not Available,0,1000-01-01
+290,290,34,2,5,Placed,"Marks, Edwards and Cox",53717,2025-04-07
+291,291,63,1,4,Placed,Mann Group,52814,2024-08-20
+292,292,94,1,2,Not Placed,Not Available,0,1000-01-01
+293,293,85,1,1,Not Placed,Not Available,0,1000-01-01
+294,294,38,3,5,Placed,Gross-Frederick,60004,2024-07-21
+295,295,68,4,2,Not Placed,Not Available,0,1000-01-01
+296,296,42,1,5,Placed,Garcia Group,92621,2024-12-12
+297,297,69,1,1,Not Placed,Not Available,0,1000-01-01
+298,298,89,2,5,Placed,"West, Case and Mcmillan",80250,2024-10-23
+299,299,33,3,5,Placed,Barker-Griffith,87421,2025-07-03
+300,300,61,3,1,Not Placed,Not Available,0,1000-01-01
+301,301,36,2,3,Placed,"Lawson, Jenkins and Smith",65156,2025-05-05
+302,302,82,3,5,Placed,Wilson-Soto,84111,2025-05-24
+303,303,79,2,1,Not Placed,Not Available,0,1000-01-01
+304,304,52,2,5,Placed,Huerta Inc,90668,2025-01-10
+305,305,46,2,1,Not Placed,Not Available,0,1000-01-01
+306,306,30,5,5,Placed,"Weaver, Smith and Curtis",86604,2024-12-02
+307,307,49,1,3,Placed,Johnston Inc,77097,2025-04-26
+308,308,58,1,3,Placed,Simmons-Adams,84293,2025-05-31
+309,309,88,3,4,Placed,"Flores, Tucker and Smith",94907,2024-11-30
+310,310,87,1,3,Placed,Mack-Fernandez,77321,2024-07-24
+311,311,82,5,2,Not Placed,Not Available,0,1000-01-01
+312,312,69,3,3,Placed,"Woodard, Barry and Brown",55192,2025-07-07
+313,313,60,1,2,Not Placed,Not Available,0,1000-01-01
+314,314,49,5,4,Placed,Goodwin PLC,78999,2025-05-01
+315,315,52,2,5,Placed,Sutton Inc,64852,2024-09-28
+316,316,49,1,3,Placed,Brown-Hawkins,82739,2025-03-12
+317,317,62,1,5,Placed,"Frazier, Galloway and Mitchell",78215,2025-01-25
+318,318,88,3,2,Not Placed,Not Available,0,1000-01-01
+319,319,74,1,1,Not Placed,Not Available,0,1000-01-01
+320,320,73,5,3,Placed,"Campbell, Snyder and Ramirez",91119,2025-03-01
+321,321,82,1,3,Placed,"Garcia, Henson and Hutchinson",76311,2025-01-15
+322,322,56,2,5,Placed,Tate Ltd,88243,2025-02-24
+323,323,35,2,4,Placed,"Mcmahon, Evans and Castillo",94633,2024-10-28
+324,324,51,1,1,Not Placed,Not Available,0,1000-01-01
+325,325,35,2,1,Not Placed,Not Available,0,1000-01-01
+326,326,96,3,2,Not Placed,Not Available,0,1000-01-01
+327,327,75,2,2,Not Placed,Not Available,0,1000-01-01
+328,328,100,1,1,Not Placed,Not Available,0,1000-01-01
+329,329,40,1,2,Not Placed,Not Available,0,1000-01-01
+330,330,63,4,5,Placed,Nelson and Sons,76420,2024-10-07
+331,331,46,5,1,Not Placed,Not Available,0,1000-01-01
+332,332,99,3,2,Not Placed,Not Available,0,1000-01-01
+333,333,76,4,2,Not Placed,Not Available,0,1000-01-01
+334,334,71,3,1,Not Placed,Not Available,0,1000-01-01
+335,335,57,4,2,Not Placed,Not Available,0,1000-01-01
+336,336,62,1,2,Not Placed,Not Available,0,1000-01-01
+337,337,81,1,1,Not Placed,Not Available,0,1000-01-01
+338,338,69,3,4,Placed,Dennis-Phillips,71823,2024-08-15
+339,339,70,2,4,Placed,"Parker, Stewart and Perry",55273,2025-01-05
+340,340,92,4,2,Not Placed,Not Available,0,1000-01-01
+341,341,69,5,1,Not Placed,Not Available,0,1000-01-01
+342,342,53,2,1,Not Placed,Not Available,0,1000-01-01
+343,343,31,1,2,Not Placed,Not Available,0,1000-01-01
+344,344,93,4,2,Not Placed,Not Available,0,1000-01-01
+345,345,60,4,2,Not Placed,Not Available,0,1000-01-01
+346,346,95,1,5,Placed,"Reid, Acevedo and Adams",76610,2024-10-13
+347,347,43,2,4,Placed,Schwartz Inc,62695,2024-12-04
+348,348,47,2,4,Placed,Carson PLC,79784,2025-01-19
+349,349,69,4,2,Not Placed,Not Available,0,1000-01-01
+350,350,93,4,4,Placed,Davis-Madden,98802,2025-05-05
+351,351,47,3,1,Not Placed,Not Available,0,1000-01-01
+352,352,32,1,3,Placed,Freeman Ltd,50152,2024-11-07
+353,353,79,2,3,Placed,Simpson-Griffin,59109,2024-09-02
+354,354,87,3,5,Placed,Freeman and Sons,62743,2025-01-16
+355,355,98,2,3,Placed,Welch-Kirby,77673,2025-06-08
+356,356,46,2,4,Placed,Kelly PLC,82949,2025-02-26
+357,357,100,1,1,Not Placed,Not Available,0,1000-01-01
+358,358,72,2,1,Not Placed,Not Available,0,1000-01-01
+359,359,37,4,2,Not Placed,Not Available,0,1000-01-01
+360,360,59,1,5,Placed,"Torres, Ramirez and Fox",51204,2025-06-25
+361,361,33,4,5,Placed,Ward-Copeland,52814,2025-07-07
+362,362,88,1,2,Not Placed,Not Available,0,1000-01-01
+363,363,91,5,4,Placed,"Savage, Robinson and Mills",69567,2024-11-29
+364,364,63,5,4,Placed,Miranda and Sons,72203,2025-03-28
+365,365,72,5,4,Placed,Nelson-Jones,70590,2024-07-17
+366,366,48,3,4,Placed,Jones-Johnson,85188,2025-05-25
+367,367,73,3,5,Placed,"Porter, Hernandez and Avila",54626,2024-08-11
+368,368,31,3,4,Placed,Harrison Ltd,92695,2025-01-02
+369,369,46,3,4,Placed,Lawson-Braun,60991,2024-08-11
+370,370,51,5,1,Not Placed,Not Available,0,1000-01-01
+371,371,91,1,3,Placed,Brown Inc,72768,2025-05-19
+372,372,46,2,4,Placed,Cole-Hunter,72618,2024-12-02
+373,373,77,1,5,Placed,Torres LLC,82221,2025-06-20
+374,374,83,5,4,Placed,Munoz and Sons,61272,2024-12-01
+375,375,79,3,2,Not Placed,Not Available,0,1000-01-01
+376,376,41,1,2,Not Placed,Not Available,0,1000-01-01
+377,377,70,3,2,Not Placed,Not Available,0,1000-01-01
+378,378,60,1,3,Placed,"Munoz, Robinson and Higgins",54641,2024-08-20
+379,379,76,4,4,Placed,Shaw Inc,54205,2025-03-04
+380,380,34,3,4,Placed,"Harris, Zimmerman and Collins",90784,2025-01-25
+381,381,83,4,2,Not Placed,Not Available,0,1000-01-01
+382,382,86,4,2,Not Placed,Not Available,0,1000-01-01
+383,383,51,4,5,Placed,Thompson Ltd,55304,2025-05-07
+384,384,68,1,3,Placed,"Morgan, Klein and Tucker",85506,2024-12-12
+385,385,98,2,2,Not Placed,Not Available,0,1000-01-01
+386,386,74,1,4,Placed,"Hanna, Hancock and Beck",98406,2025-04-21
+387,387,76,5,2,Not Placed,Not Available,0,1000-01-01
+388,388,46,4,2,Not Placed,Not Available,0,1000-01-01
+389,389,71,5,2,Not Placed,Not Available,0,1000-01-01
+390,390,99,4,5,Placed,Newman and Sons,87639,2024-09-25
+391,391,47,4,3,Placed,Blevins Group,79130,2025-04-27
+392,392,70,5,4,Placed,Hunter PLC,76738,2025-05-23
+393,393,53,4,1,Not Placed,Not Available,0,1000-01-01
+394,394,36,3,1,Not Placed,Not Available,0,1000-01-01
+395,395,97,1,3,Placed,Smith and Sons,55832,2025-04-01
+396,396,44,2,3,Placed,Bailey-Williams,82245,2025-01-08
+397,397,98,4,1,Not Placed,Not Available,0,1000-01-01
+398,398,67,2,5,Placed,Walker-Benton,96715,2025-05-21
+399,399,77,1,1,Not Placed,Not Available,0,1000-01-01
+400,400,44,2,5,Placed,Christian Group,89434,2024-08-03
+401,401,30,1,2,Not Placed,Not Available,0,1000-01-01
+402,402,37,1,4,Placed,"Skinner, Garcia and Burke",76325,2025-05-05
+403,403,50,4,5,Placed,"Martin, Ortega and Ramirez",55619,2025-02-09
+404,404,73,3,4,Placed,"Crawford, Whitaker and Crosby",55874,2024-10-16
+405,405,51,2,3,Placed,Tucker Group,58214,2024-08-18
+406,406,75,3,4,Placed,Morris Inc,99251,2025-02-02
+407,407,48,1,1,Not Placed,Not Available,0,1000-01-01
+408,408,31,1,1,Not Placed,Not Available,0,1000-01-01
+409,409,74,3,2,Not Placed,Not Available,0,1000-01-01
+410,410,44,4,5,Placed,Ramos-Medina,54226,2025-04-19
+411,411,44,1,1,Not Placed,Not Available,0,1000-01-01
+412,412,61,5,1,Not Placed,Not Available,0,1000-01-01
+413,413,30,2,5,Placed,Williams and Sons,84374,2025-01-18
+414,414,85,2,1,Not Placed,Not Available,0,1000-01-01
+415,415,48,3,5,Placed,"Richards, Bowen and Blackburn",97361,2025-04-12
+416,416,96,3,4,Placed,Sanchez Inc,52281,2025-01-01
+417,417,36,5,4,Placed,Henry-Mayo,88633,2025-06-03
+418,418,32,1,2,Not Placed,Not Available,0,1000-01-01
+419,419,80,5,1,Not Placed,Not Available,0,1000-01-01
+420,420,61,2,5,Placed,"Powers, Riddle and Medina",51989,2024-08-15
+421,421,83,5,5,Placed,Ruiz Group,58325,2025-05-10
+422,422,68,5,3,Placed,Blevins-Erickson,90190,2025-05-20
+423,423,36,1,1,Not Placed,Not Available,0,1000-01-01
+424,424,68,1,1,Not Placed,Not Available,0,1000-01-01
+425,425,72,5,2,Not Placed,Not Available,0,1000-01-01
+426,426,62,1,5,Placed,Jackson-Bridges,70789,2024-11-08
+427,427,98,3,3,Placed,Wilkins LLC,96545,2024-08-11
+428,428,59,3,5,Placed,Garrett PLC,84678,2024-12-12
+429,429,58,4,5,Placed,Diaz-Swanson,61746,2024-08-21
+430,430,38,3,3,Placed,"Miller, Fisher and Whitehead",64712,2025-06-06
+431,431,92,2,3,Placed,Aguilar Ltd,55304,2024-12-13
+432,432,60,5,3,Placed,Simpson and Sons,74517,2025-06-06
+433,433,100,4,3,Placed,Perez-Warren,88647,2024-09-06
+434,434,51,3,5,Placed,Norris and Sons,54473,2025-04-12
+435,435,55,2,4,Placed,"Green, Mckenzie and Torres",87829,2025-03-08
+436,436,30,5,1,Not Placed,Not Available,0,1000-01-01
+437,437,69,2,3,Placed,Maxwell-Pitts,76938,2025-07-03
+438,438,35,2,4,Placed,"Ross, Gonzalez and Beltran",78954,2025-01-11
+439,439,67,5,2,Not Placed,Not Available,0,1000-01-01
+440,440,73,5,5,Placed,"Gonzales, Howard and Rivera",56569,2024-09-28
+441,441,33,1,2,Not Placed,Not Available,0,1000-01-01
+442,442,84,4,5,Placed,Ramsey Inc,89841,2024-09-26
+443,443,88,5,5,Placed,"Hubbard, Oneal and Weaver",80114,2024-08-20
+444,444,93,2,5,Placed,Anderson Group,64610,2025-07-05
+445,445,38,4,4,Placed,Bradley-Harris,93593,2024-10-02
+446,446,40,3,4,Placed,Garcia PLC,90585,2025-03-22
+447,447,72,4,3,Placed,"Molina, Thomas and Browning",73319,2025-02-28
+448,448,63,1,2,Not Placed,Not Available,0,1000-01-01
+449,449,98,4,4,Placed,Mitchell-Davis,77302,2025-04-10
+450,450,31,1,2,Not Placed,Not Available,0,1000-01-01
+451,451,33,3,1,Not Placed,Not Available,0,1000-01-01
+452,452,91,5,3,Placed,Green Ltd,71605,2024-11-28
+453,453,67,1,1,Not Placed,Not Available,0,1000-01-01
+454,454,81,2,3,Placed,"Reid, Guerrero and Howard",57690,2025-04-21
+455,455,90,4,2,Not Placed,Not Available,0,1000-01-01
+456,456,48,1,5,Placed,"Chen, Rios and Johns",91869,2025-05-05
+457,457,57,3,1,Not Placed,Not Available,0,1000-01-01
+458,458,81,3,3,Placed,Williams-Murphy,51271,2024-09-23
+459,459,87,4,3,Placed,Williamson and Sons,89489,2025-05-26
+460,460,84,5,2,Not Placed,Not Available,0,1000-01-01
+461,461,66,4,5,Placed,"Reeves, Hanson and Lawson",71707,2024-10-27
+462,462,40,2,2,Not Placed,Not Available,0,1000-01-01
+463,463,47,5,5,Placed,Ford-Mcintyre,77282,2025-01-28
+464,464,85,3,3,Placed,Webb-Murray,75071,2025-05-27
+465,465,57,1,5,Placed,"Yang, Campbell and Oliver",80975,2024-07-26
+466,466,68,2,1,Not Placed,Not Available,0,1000-01-01
+467,467,54,1,5,Placed,"Copeland, Jones and Green",89944,2025-03-18
+468,468,66,3,5,Placed,Jackson-Wells,82735,2025-03-08
+469,469,80,1,4,Placed,"Phelps, Franklin and Morales",73059,2025-06-08
+470,470,51,3,2,Not Placed,Not Available,0,1000-01-01
+471,471,99,5,2,Not Placed,Not Available,0,1000-01-01
+472,472,71,1,1,Not Placed,Not Available,0,1000-01-01
+473,473,87,1,3,Placed,Rivera-Bullock,56748,2024-07-24
+474,474,93,5,5,Placed,"Smith, Mendoza and Taylor",53036,2024-12-17
+475,475,73,4,5,Placed,Garza-Roman,83980,2024-09-13
+476,476,52,1,1,Not Placed,Not Available,0,1000-01-01
+477,477,66,3,4,Placed,Walker-Morrow,54373,2024-07-29
+478,478,100,4,3,Placed,Malone LLC,99392,2025-06-29
+479,479,53,5,4,Placed,Lee-Zhang,99613,2025-06-01
+480,480,51,2,2,Not Placed,Not Available,0,1000-01-01
+481,481,63,3,2,Not Placed,Not Available,0,1000-01-01
+482,482,92,5,4,Placed,"Sullivan, Sanchez and Brown",76225,2025-06-29
+483,483,31,3,1,Not Placed,Not Available,0,1000-01-01
+484,484,98,4,1,Not Placed,Not Available,0,1000-01-01
+485,485,91,4,2,Not Placed,Not Available,0,1000-01-01
+486,486,95,1,4,Placed,Hoffman LLC,95513,2025-01-21
+487,487,90,3,2,Not Placed,Not Available,0,1000-01-01
+488,488,66,5,4,Placed,"Ingram, Burns and Christian",67053,2024-12-19
+489,489,82,2,1,Not Placed,Not Available,0,1000-01-01
+490,490,34,4,3,Placed,"Mills, Lee and Ewing",57593,2025-02-10
+491,491,99,4,1,Not Placed,Not Available,0,1000-01-01
+492,492,100,2,1,Not Placed,Not Available,0,1000-01-01
+493,493,95,2,2,Not Placed,Not Available,0,1000-01-01
+494,494,87,3,1,Not Placed,Not Available,0,1000-01-01
+495,495,67,2,4,Placed,"Anderson, Wilson and Lewis",76343,2024-10-28
+496,496,68,1,3,Placed,"Williamson, Hawkins and Owens",52491,2024-08-12
+497,497,31,4,1,Not Placed,Not Available,0,1000-01-01
+498,498,58,3,5,Placed,King Group,76232,2025-03-26
+499,499,40,4,5,Placed,Burns Ltd,55845,2025-07-12
+500,500,98,2,5,Placed,"Perry, Newton and Oconnor",57387,2025-04-20
